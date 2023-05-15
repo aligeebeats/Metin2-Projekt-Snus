@@ -1,0 +1,46 @@
+ASLAN_BUFF_TITLE_MAIN_BOARD	Schamanen-Info
+ASLAN_BUFF_TITLE_CREATE_BOARD	Schamanen Konfigurieren
+ASLAN_BUFF_TITLE_LEARN_GRANDMASTER	Lerne Großmeister-Fertigkeit
+ASLAN_BUFF_TITLE_RESET_SKILL	Fertigkeit zurücksetzen
+ASLAN_BUFF_TITLE_CHANGE_NAME	Name ändern
+ASLAN_BUFF_BUTTON_SUMMON	Rufen
+ASLAN_BUFF_BUTTON_UNSUMMON	Wegschicken
+ASLAN_BUFF_BUTTON_EXPORT	Exportieren
+ASLAN_BUFF_TITLE_SKILLS	Fertigkeiten
+ASLAN_BUFF_SKILLPOINTS	Fertigkeitspunkte: %d
+ASLAN_BUFF_INTELLIGENCE	INT: %d
+ASLAN_BUFF_TITLE_IMPROVE_CHANGE	Verbessern und verändern
+ASLAN_BUFF_BUTTON_TEXT_USE	Benutzen
+ASLAN_BUFF_INPUT_NAME_TITLE	Name eingeben
+ASLAN_BUFF_CHANGE_NAME	Name ändern
+ASLAN_BUFF_CHANGE_SEX	Geschlecht ändern
+ASLAN_BUFF_RESET_SKILL	Fertigk. zurücks.
+ASLAN_BUFF_HOVER_EXP_INFO	Erfahrung : %s / %s (%.2f%%)
+ASLAN_BUFF_CHAT_INFO_NAME_IS_EMPTY	Du musst ein Namen für dein Schamanen eingeben.
+ASLAN_BUFF_SELECT_SKILL	Fertigkeit auswählen
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_1	Glückwunsch!
+ASLAN_BUFF_POPUP_GRANDMASTER_SUCCESS_2	Das verbessern von %s war erfolgreich!
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_1	Leider hat das verbessern von %s nicht geklappt..
+ASLAN_BUFF_POPUP_GRANDMASTER_NOT_SUCCESS_2	Dir wurden nur die hälfte der Kosten abgezogen.
+ASLAN_BUFF_POPUP_GRANDMASTER_NO_SKILLS	Du hast keine Großmeisterfertigkeit die du verbessern kannst.
+ASLAN_BUFF_POPUP_NOT_ACTIVE_SHAMAN	Du hast keinen Schamanen aktiven Schamanen.
+ASLAN_BUFF_POPUP_RESET_SKILL_1	Du hast die Fertigkeit %s zurückgesetzt!
+ASLAN_BUFF_POPUP_RESET_SKILL_2	Du hast %d Fertigkeitspunkte erhalten!
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_1	Möchtest du den Schamanen wirklich exportieren?
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_2	Tech-Stufen der Fertigkeiten werden dabei zurückgesetzt!
+ASLAN_BUFF_QUESTION_BEFORE_EXPORT_3	Der Export kostet für das Level deines Schamanen: %s Yang
+ASLAN_BUFF_QUESTION_BEFORE_CHANGE_SEX	Möchtest du das Geschlecht des Schamanen ändern?
+ASLAN_BUFF_CHAT_NO_SKILL_ITEM	Es ist kein Fertigkeitsbuch oder Seelenstein vorhanden.
+ASLAN_BUFF_CHAT_NO_CHANGE_NAME_ITEM	Du brauchst Tinktur des Namens um den Namen ändern zu können.
+ASLAN_BUFF_CHAT_NO_CHANGE_SEX_ITEM	Du brauchst Wandelzauber um das Geschlecht ändern zu können.
+ASLAN_BUFF_CHAT_NO_RESET_SKILL_ITEM	Du brauchst Fertigkeit-Neuverteilung um eine Fertigkeit zurück zu setzen.
+ASLAN_BUFF_SKILLBOARD_COST	Kosten : %s Yang
+ASLAN_BUFF_SKILLBOARD_COST_EMPTY	Kosten : ----
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS	Fertigkeitspunkte : %d
+ASLAN_BUFF_SKILLBOARD_SKILLPOINTS_EMPTY	Fertigkeitspunkte : ----
+ASLAN_BUFF_TOOLTIP_WITH_SOCKET_ZERO	Dieses Siegel wurde noch nicht gebrochen! Sei der erste der den Geist dieses Schamanen frei lässt!
+ASLAN_BUFF_TOOLTIP_MALE	Männlich
+ASLAN_BUFF_TOOLTIP_FEMALE	Weiblich
+ASLAN_BUFF_TOOLTIP_LEVEL	Level : %s
+ASLAN_BUFF_TOOLTIP_SKILLPOINTS	Fertigkeitspunkte : %s
+ASLAN_BUFF_TOOLTIP_INTELLIGENCE	Intelligenz : %s

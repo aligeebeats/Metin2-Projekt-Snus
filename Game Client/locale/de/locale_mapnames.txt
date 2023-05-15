@@ -1,0 +1,26 @@
+MAP_1	Map 1
+MAP_2	Map 2
+MAP_1_AND_MAP_2	Map1 & Map2
+GUILDZONE_1	Gildenzone 1
+GUILDZONE_2	Gildenzone 2
+MONKEY_DUNGEON_1	Affen-Dungeon (Leicht)
+MONKEY_DUNGEON_2	Affen-Dungeon (Mittel)
+MONKEY_DUNGEON_3	Affen-Dungeon (Schwer)
+SEUNGRYONG	Tal von Seungryong
+YONGBI_DESERT	Yongbi-Wüste
+MOUNT_SOHAN	Berg Sohan (Eisland)
+HWANG_TEMPLE	Hwang-Tempel
+DOYYUMHWAN	Doyyumhwan (Feuerland)
+GHOST_FOREST	Lungsam (Geisterwald)
+RED_FOREST	Roter Wald
+LAND_OF_GIANTS	Land der Riesen
+SNAKEFIELD	Schlangenfeld
+DEVIL_TOWER	Dämonenturm
+DEVILS_CATACOMB	Devil's Catacomb
+SPIDER_DUNGEON_1	Spinnendungeon 1
+SPIDER_DUNGEON_2	Spinnendungeon 2
+SPIDER_DUNGEON_3	Spinnendungeon 3
+SKIPIA_DUNGEON_1	Grotte der Verbannung 1
+SKIPIA_DUNGEON_2	Grotte der Verbannung 2
+SKIPIA_DUNGEON_1_2	Grotte der Verbannung 1 & 2
+

@@ -1,0 +1,5 @@
+11209	"d:/ymir work/pc/common/effect/armor/armor-4-2-1.mse"	"d:/ymir work/pc/common/effect/armor/armor-4-2-2.mse"
+10	"D:/ymir work/pc/common/effect/sword/element01_electric.mse"
+11219	"D:/ymir work/effect/etc/soul/soul_blue_001.mse"
+11229	"D:/ymir work/effect/etc/soul/soul_red_001.mse"
+11239	"D:/ymir work/effect/etc/soul/soul_mix_001.mse"

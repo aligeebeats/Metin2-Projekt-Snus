@@ -1,0 +1,49 @@
+TARGET_INFO_DAMAGE	Angriffswert : %s - %s
+TARGET_INFO_DEFENSE	Verteidigung : %s
+TARGET_INFO_EXP	Erfahrung : %s
+TARGET_INFO_MAINRACE	Rasse : %s
+TARGET_INFO_MAX_HP	Max. HP : %s
+TARGET_INFO_NO_ITEM_TEXT	Keine Gegenstände droppbar.
+TARGET_INFO_NO_RACE	Keine
+TARGET_INFO_RACE_METIN	Metinstein
+TARGET_INFO_RACE_ANIMAL	Tiere
+TARGET_INFO_RACE_DARK	Dunkelheit
+TARGET_INFO_RACE_DEVIL	Teufel
+TARGET_INFO_RACE_EARTH	Erde
+TARGET_INFO_RACE_ELEC	Blitz
+TARGET_INFO_RACE_FIRE	Feuer
+TARGET_INFO_RACE_HUMAN	Halbmenschen
+TARGET_INFO_RACE_ICE	Eis
+TARGET_INFO_RACE_MILGYO	Esoterische
+TARGET_INFO_RACE_ORC	Orks
+TARGET_INFO_RACE_UNDEAD	Untote
+TARGET_INFO_RACE_WIND	Wind
+TARGET_INFO_RACE_ZODIAC	Zodiak
+TARGET_INFO_STONE_NAME	Geiststein
+TARGET_INFO_SUBRACE	Unterkategorie : %s
+TARGET_INFO_RESIST	Widerstände:
+TARGET_INFO_RESIST_SWORD	Einhand %d%%
+TARGET_INFO_RESIST_TWOHAND	Zweihand %d%%
+TARGET_INFO_RESIST_DAGGER	Dolch %d%%
+TARGET_INFO_RESIST_BELL	Glocke %d%%
+TARGET_INFO_RESIST_FAN	Fächer %d%%
+TARGET_INFO_RESIST_BOW	Pfeil %d%%
+TARGET_INFO_RESIST_CLAW	Klauen %d%%
+TARGET_INFO_RESIST_FIRE	Feuer %d%%
+TARGET_INFO_RESIST_ELECT	Blitz %d%%
+TARGET_INFO_RESIST_MAGIC	Magie %d%%
+TARGET_INFO_RESIST_WIND	Wind %d%%
+TARGET_INFO_RESIST_POISON	Gift %d%%
+TARGET_INFO_RESIST_BLEEDING	Blutung %d%%
+EMOJI_CHARACTER_STATS_ADD	|Eemoji/key_ctrl|e + |Eemoji/key_lclick|e - x10
+SHOP_NOT_ENOUGH_ITEM	Du hast nicht genug Items.
+SHOP_NOT_ENOUGH_EXP	Du hast nicht genug Erfahrungspunkte.
+LOGIN_FAILURE_WRONG_VERSION	Deine Clientversion ist veraltet. Bitte Patchen!
+SYSTEM_OPTION_CPU_TILING_1	CPU-Tiling-Modus kann die Geschwindigkeit eines schwächeren PC verbessern.
+SYSTEM_OPTION_CPU_TILING_2	Wenn Probleme mit der Grafik auftreten, wähle ,Systemoption‘ oder ,CONFIG.exe‘
+SYSTEM_OPTION_CPU_TILING_3	und wechsel so zum GPU-Tiling-Modus.
+SYSTEM_OPTION_GPU_TILING_1	GPU-Tiling-Modus kann auf einem schwächeren PC langsam laufen.
+SYSTEM_OPTION_GPU_TILING_2	Wenn Probleme mit der Grafik auftreten, wähle 'Systemoptionen' oder 'CONFIG.exe'
+SYSTEM_OPTION_GPU_TILING_3	und wechsel so zum CPU-Tiling-Modus.
+SYSTEM_OPTION_TILING_EXIT	Für den Wechsel des Tiling-Modus muss das Spiel neu gestartet werden.
+CHESTDROP_COUNT	%dx öffnen
